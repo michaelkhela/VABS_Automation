@@ -11,6 +11,14 @@ This tool was created by Michael Khela for use across the LCN, tailored specific
 Michael Khela  
 Email: michael.khela99@gmail.com  
 
+### Supervisor
+**Carol Wilkinson**
+
+### Contributors  
+- Gabriela Davila Mejia
+- Sophie Hurewitz  
+- Meagan Tsou
+
 ## Requirements  
 
 **Python Version:** 3.12.1  
@@ -57,14 +65,13 @@ Alternatively, run the script in **Spyder** (Anaconda) by:
 Once completed, a message should confirm successful execution.  
 
 ### 4. Output  
-The script generates an output CSV file in the output directory, following this format:  
+The script generates an output CSV file in the output directory 
 
 This file is structured for direct import into REDCap.  
 
 ## Notes  
 
 - This script is specifically tailored for the BRIDGE study.   
-- Only **Research Assistants** should import the script's output into Internal REDCap.  
 
 ## Contact  
 
